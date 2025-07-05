@@ -1,0 +1,1 @@
+# Parallel-Histogram-Equalization-of-Gray-Scale-Images
