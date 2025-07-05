@@ -36,8 +36,6 @@ This project implements both **sequential** and **parallel** versions of histogr
   - Speeds up processing of large images
 
 ## 🖼️ Sample Output
-
-```bash
 Sequential processing time: 250 ms  
 Parallel processing time: 90 ms  
 Result image saved: outputRes1.png (sequential)  
